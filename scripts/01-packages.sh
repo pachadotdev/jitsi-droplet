@@ -23,3 +23,4 @@ mkdir /jitsi-setup
 apt-get -yq install openjdk-8-jre-headless nginx python-certbot-nginx
 ufw allow 'Nginx Full'
 
+
